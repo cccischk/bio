@@ -1,3 +1,4 @@
 Name: Cameron Cischke
 DOB: 03/09/2005
 School: MTU
+Favorite Sport: Baseball
